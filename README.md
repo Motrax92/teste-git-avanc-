@@ -1,5 +1,4 @@
-                                                                                 
-                                                                                 
+Print(`                                                                               
 `7MMM.     ,MMF'         mm                                                      
   MMMb    dPMM           MM                                                      
   M YM   ,M MM  ,pW"Wq.mmMMmm `7Mb,od8 ,6"Yb.  `7M'   `MF'     .d*"*bg.  pd*"*b. 
@@ -9,3 +8,4 @@
 .JML. `'  .JMML.`Ybmd9'  `Mbmo.JMML.  `Moo9^Yo..AM.   .MA.          .M' Ammmmmmm 
                                                                   .d9            
                                                                 m"'              
+`)
